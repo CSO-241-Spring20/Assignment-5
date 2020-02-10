@@ -13,20 +13,20 @@ Follow the instructions given in comments.
 
 ## Data:
 
-The training corpus contains words that can be classified as any one of the following 12 universal tags - 
+The training corpus contains that can be classified as any one of the following 12 universal tags - 
 
-VERB - verbs (all tenses and modes)
-NOUN - nouns (common and proper)
-PRON - pronouns 
-ADJ - adjectives
-ADV - adverbs
-ADP - adpositions (prepositions and postpositions)
-CONJ - conjunctions
-DET - determiners
-NUM - cardinal numbers
-PRT - particles or other function words
-X - other: foreign words, typos, abbreviations
-. - punctuation
+VERB - verbs (all tenses and modes)  
+NOUN - nouns (common and proper)  
+PRON - pronouns  
+ADJ - adjectives  
+ADV - adverbs  
+ADP - adpositions (prepositions and postpositions)  
+CONJ - conjunctions  
+DET - determiners  
+NUM - cardinal numbers  
+PRT - particles or other function words  
+X - other: foreign words, typos, abbreviations  
+. - punctuation  
 
 ## Deliverables: 
 
