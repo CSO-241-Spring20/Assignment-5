@@ -13,7 +13,7 @@ Follow the instructions given in comments.
 
 ## Data:
 
-The training corpus contains that can be classified as any one of the following 12 universal tags - 
+The training corpus contains words that can be classified as any one of the following 12 universal tags - 
 
 VERB - verbs (all tenses and modes)  
 NOUN - nouns (common and proper)  
